@@ -1,0 +1,22 @@
+{
+  "name": "create-design-tokens",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "create-design-tokens": "bin/create-design-tokens"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Camilo Paez <camilopaez.dev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
