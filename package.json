@@ -12,6 +12,9 @@
   },
   "keywords": [],
   "author": "Camilo Paez <camilopaez.dev@gmail.com>",
+  "repository": {
+    "url": "https://github.com/EstebanPaez/create-design-tokens"
+  },
   "license": "MIT",
   "devDependencies": {
     "standard": "^16.0.3"
